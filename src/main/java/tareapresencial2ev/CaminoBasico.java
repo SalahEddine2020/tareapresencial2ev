@@ -11,4 +11,8 @@ public class CaminoBasico {
         }
         return resultado;
     }
+    
+    public void prueba () {
+        System.out.println("Hola");
+    }
 }
